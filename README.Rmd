@@ -19,7 +19,7 @@ An R package for generating paragraphs of lorem ipsum.
 You can install the package using `devtools`:
 
 ```{r, eval=FALSE}
-devtools::install_github("aakosm/ipsum")
+devtools::install_github("aakosm/lipsum")
 ```
 
 
