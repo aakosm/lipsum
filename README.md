@@ -10,7 +10,7 @@ install
 You can install the package using `devtools`:
 
 ``` r
-devtools::install_github("aakosm/ipsum")
+devtools::install_github("aakosm/lipsum")
 ```
 
 how it works
